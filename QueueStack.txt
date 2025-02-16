@@ -1,0 +1,8 @@
+OUTPUT
+
+QueueStack
+
+Top element: 30
+Popped element: 30
+Top element after pop: 20
+

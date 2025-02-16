@@ -1,0 +1,14 @@
+OUTPUT
+
+SinglyLinkedList
+
+List after insertions:
+10 -> 20 -> 30 -> null
+List after inserting at front:
+5 -> 10 -> 20 -> 30 -> null
+List after deleting node with value 20:
+5 -> 10 -> 30 -> null
+Is 10 in the list? true
+Is 20 in the list? false
+
+

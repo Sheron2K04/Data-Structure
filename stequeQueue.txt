@@ -1,0 +1,10 @@
+OUTPUT
+
+stequeQueue
+
+Peek: 10
+Popped element: 10
+Dequeued element: 30
+Peek after pop and dequeue: 20
+
+
