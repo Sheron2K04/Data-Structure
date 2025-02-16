@@ -1,0 +1,7 @@
+OUTPUT
+
+priority Queue
+Size: 3
+10
+15
+20
